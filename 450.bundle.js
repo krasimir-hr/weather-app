@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjs_starter_template=self.webpackChunkjs_starter_template||[]).push([[450],{450:(e,t,s)=>{e.exports=s.p+"images/night.png"}}]);
