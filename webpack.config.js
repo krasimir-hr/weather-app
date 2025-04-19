@@ -7,7 +7,7 @@ module.exports = {
       path: path.resolve(__dirname, 'dist'),
       filename: 'bundle.js',
       clean: true,
-      publicPath: '/',
+      publicPath: '/weather-app/',
    },
    mode: 'development',
    module: {
